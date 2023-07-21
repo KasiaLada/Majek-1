@@ -1,2 +1,2 @@
 # Majek-1
-Nauka z Majkiem
+Nauka z Majkiem - małe zadanka z HTML i css
